@@ -71,12 +71,7 @@ Match related records from both datasets
 Remove unmatched data
 Improve data accuracy
 Create a unified financial dataset for analysis
-
 This helped generate accurate loan and customer insights.
-
-📊 Dashboard Features
-
-The dashboard includes:
 
 ## KPIs
 Total Loan Applications
